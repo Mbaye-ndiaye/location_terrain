@@ -25,6 +25,7 @@ const SidebarComponent = () => {
         <p className="mt-4 text-gray-700">
           Ceci est la section dashboard. Ajoute ton contenu ici.
         </p>
+        <p>{toggle}</p>
       </div>
         
 
