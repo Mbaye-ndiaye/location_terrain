@@ -26,6 +26,7 @@ const SidebarComponent = () => {
           Ceci est la section dashboard. Ajoute ton contenu ici.
         </p>
         <p>{toggle}</p>
+        <p>pen</p>
       </div>
         
 
